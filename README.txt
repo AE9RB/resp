@@ -1,3 +1,6 @@
+This turned into a full library. Get it here:
+https://github.com/thingSoC/embedis
+
 resp - An experimental protocol for embedded devices
 
 RESP is the REdis Serialization Protocol. 
